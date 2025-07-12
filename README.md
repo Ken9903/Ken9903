@@ -7,7 +7,7 @@
     <!-- 왼쪽: 프로필 -->
     <td style="vertical-align: top; border: none; width: 300px;">
       <p style="text-align: center;">
-      <img src="https://github.com/user-attachments/assets/a70ee8d7-c1e9-4dc3-aec4-9f94edde6625" width="150">
+      <img src= "https://github.com/user-attachments/assets/b94f0004-e50a-44ad-8f62-91ec7489cecd" width="150">
       </p>
       <strong>최규현</strong><br>
       🧑 나이 : 28세<br>
@@ -35,7 +35,7 @@
 <table>
   <tr>
      <td align="center" style="width:300px; padding:10px;">
-      <img src="https://github.com/user-attachments/assets/2f753009-b9a5-43d8-a6aa-cf02f2cae134" width="200"><br>
+      <img src= "https://github.com/user-attachments/assets/3a65710b-9034-43ba-ba0a-f8c31b057e1b" width="200"><br>
       <strong> LINGKARAN (출시)</strong><br>
       <sub>
       🏁 <strong>출시일</strong> : 2025.05<br>
@@ -45,7 +45,7 @@
       <a href="https://www.youtube.com/watch?v=9w3IiOxeCmU">▶️ 트레일러 영상 보러 가기</a><br>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/be2c47c3-1c44-41f6-8af8-10f3768a7089"width="200"><br>
+      <img src= "https://github.com/user-attachments/assets/234e117e-45f0-4631-a771-611c7039ae79" width="200"><br>
        <strong>pledge-of-starlight</strong><br>
         <div style="font-size: 10px; margin-top: 3px;">
     <sub>
@@ -57,7 +57,7 @@
 <a href="https://www.youtube.com/watch?v=5r7sUG1QFws">▶️영상</a>&nbsp;&nbsp;|&nbsp;&nbsp;📁<a href="https://github.com/Ken9903/pledge-of-starlight">리포지토리</a><br>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/4734f30c-b00c-4e71-8f5f-c4fadda14a78" width="200"><br>
+      <img src= "https://github.com/user-attachments/assets/b5f3ebde-62a4-45de-b113-0c91a0555407" width="200"><br>
     <strong>eclipse-of-the-moon (출시)</strong><br>
               <div style="font-size: 10px; margin-top: 6px;">
     <sub>
@@ -69,7 +69,7 @@
 <a href="https://www.youtube.com/watch?v=NQ3vBNcerdc">▶️영상</a>&nbsp;&nbsp;|&nbsp;&nbsp;📁<a href="https://github.com/Ken9903/eclipse-of-the-moon">리포지토리</a><br>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/09a3f58e-9c24-4069-8c3b-e19078318adb" width="200"><br>
+      <img src= "https://github.com/user-attachments/assets/60a045f1-746b-4677-9b51-a19d53e32bcc" width="200"><br>
       <strong>real-you (출시)</strong><br>
               <div style="font-size: 10px; margin-top: 6px;">
     <sub>
@@ -89,7 +89,7 @@
 <table>
   <tr>
      <td align="center">
-      <img src="https://github.com/user-attachments/assets/2ec18ea5-8818-41fb-a026-3845adc71704" width="200"><br>
+      <img src= "https://github.com/user-attachments/assets/439192e9-5ef5-46b1-ab6f-80d179b6062a" width="200"><br>
     <strong>rpc-chatting-system</strong><br>
               <div style="font-size: 10px; margin-top: 6px;">
     <sub>
@@ -99,7 +99,7 @@
   </div>
 📁<a href="https://github.com/Ken9903/ue-rpc-chatting">리포지토리</a><br>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/9bf8ff24-5b6a-4b16-b9ed-71f9062c1761" width="200"><br>
+      <img src="https://github.com/user-attachments/assets/160f814c-9520-4276-b82b-85995d7f3a9a" width="200"><br>
        <strong>ar-study-card</strong><br>
               <div style="font-size: 10px; margin-top: 6px;">
     <sub>
@@ -110,7 +110,7 @@
 <a href="https://www.youtube.com/watch?v=hfi7OeX9mYQ">▶️영상</a>&nbsp;&nbsp;|&nbsp;&nbsp;📁<a href="https://github.com/Ken9903/ar-study-card">리포지토리</a><br>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/6f36a590-cf10-4223-af4b-728316226676" width="200"><br>
+      <img src= "https://github.com/user-attachments/assets/92aeca4c-2db1-4609-8ff6-46b144f949f5" width="200"><br>
       <strong>island-of-sky</strong><br>
               <div style="font-size: 10px; margin-top: 6px;">
     <sub>
