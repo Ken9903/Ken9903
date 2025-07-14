@@ -10,7 +10,7 @@
       <img src= "https://github.com/user-attachments/assets/b94f0004-e50a-44ad-8f62-91ec7489cecd" width="150">
       </p>
       <strong>최규현</strong><br>
-      🧑 나이 : 28세<br>
+      🧑 나이 : 28세(만 26세)<br>
       💼 경력 : 1년3개월<br>
       ✉️ 이메일 : godsdy0411@gmail.com<br>
       📱 연락처 : +81-80-4175-6661
