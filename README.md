@@ -54,7 +54,7 @@
     <br/><br/>
     </sub>
   </div>
-<a href="https://www.youtube.com/watch?v=5r7sUG1QFws">▶️영상</a>&nbsp;&nbsp;|&nbsp;&nbsp;📁<a href="https://github.com/Ken9903/pledge-of-starlight">리포지토리</a><br>
+<a href="https://youtu.be/GKpJ9dk2TnI">▶️영상</a>&nbsp;&nbsp;|&nbsp;&nbsp;📁<a href="https://github.com/Ken9903/pledge-of-starlight">리포지토리</a><br>
     </td>
     <td align="center">
       <img src= "https://github.com/user-attachments/assets/b5f3ebde-62a4-45de-b113-0c91a0555407" width="200"><br>
