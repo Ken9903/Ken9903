@@ -157,9 +157,6 @@
 <br>
 <div align="center">
 
-## Other
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=godsdy0410)](https://solved.ac/godsdy0410/)
-
 <!--
 **Ken9903/Ken9903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
